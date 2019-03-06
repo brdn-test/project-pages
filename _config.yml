@@ -1,16 +1,16 @@
 # Site settings
 title: Test pages
 description: "Test somethings."
-url: "https://brdn-test.github.io/test"
+url: "https://brdn-test.github.io"
 
 
 
 
 # Secondary Parameters
-baseurl: ""
+baseurl: "/test"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /test/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  projectpages
