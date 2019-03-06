@@ -13,11 +13,11 @@ headercolor: "#FFFFFF"
 logo: img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
-g-analytics: UA-75881392-1
-altmetric: true
+#github_username:  projectpages
+#project_repository: project-pages
+#disqus_shortname: project-pages
+#g-analytics: UA-75881392-1
+#altmetric: true
 
 # Build settings
 gems: [jekyll-paginate]
